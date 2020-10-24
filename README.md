@@ -10,7 +10,7 @@ A list of courses that I've taken and successfully completed.
 
 ## Coursera
 
-* [Cryptography and Information Theory](#https://www.coursera.org/learn/crypto-info-theory/home/welcome)
+* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome)
 * Symmetric Cryptography
 * Asymmetric Cryptography and Key Management
 * Hadoop Platform and Application Framework
