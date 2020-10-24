@@ -20,8 +20,8 @@ A list of courses that I've taken and successfully completed.
 
 ## Simplilearn
 
-* AI Engineer(https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?referrer=search&tag=ai%20engineer)
+* [AI Engineer](https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?referrer=search&tag=ai%20engineer)
 
 ## Hackerrank
 
-* Python (Basic)(https://www.hackerrank.com/skills-verification)
+* [Python (Basic)](https://www.hackerrank.com/skills-verification)
