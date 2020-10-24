@@ -10,6 +10,18 @@ A list of courses that I've taken and successfully completed.
 
 ## Coursera
 
+* Cryptography and Information Theory
+* Symmetric Cryptography
+* Asymmetric Cryptography and Key Management
+* Hadoop Platform and Application Framework
+* Multiplatform Mobile App Development with React Native
+* Algorithms, Part I
+* Algorithms, Part II
+
 ## Simplilearn
 
+* AI Engineer
+
 ## Hackerrank
+
+* Python (Basic)
