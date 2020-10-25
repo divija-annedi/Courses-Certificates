@@ -24,4 +24,4 @@ A list of courses that I've taken and successfully completed.
 
 ## Hackerrank
 
-* [Python (Basic)](https://www.hackerrank.com/skills-verification)
+* [Python (Basic)](https://www.hackerrank.com/skills-verification)  [:mortar_board:](https://www.hackerrank.com/certificates/35e1b03f7136)
