@@ -10,7 +10,7 @@ A list of courses that I've taken and successfully completed.
 
 ## Coursera
 
-* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/commits?author=divija-annedi)
+* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Cryptography%20and%20Information%20Theory.pdf)
 * [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto/home/welcome):books: :mortar_board:
 * [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto/home/welcome):books: :mortar_board:
 * [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/home/welcome):books: :mortar_board:
