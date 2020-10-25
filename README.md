@@ -10,13 +10,13 @@ A list of courses that I've taken and successfully completed.
 
 ## Coursera
 
-* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome)
-* [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto/home/welcome)
-* [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto/home/welcome)
-* [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/home/welcome)
-* [Multiplatform Mobile App Development with React Native](https://www.coursera.org/learn/react-native/home/welcome)
-* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome)
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome)
+* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome):books: :mortar_board:
+* [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto/home/welcome):books: :mortar_board:
+* [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto/home/welcome):books: :mortar_board:
+* [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/home/welcome):books: :mortar_board:
+* [Multiplatform Mobile App Development with React Native](https://www.coursera.org/learn/react-native/home/welcome):books: :mortar_board:
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome):books: :mortar_board:
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome):books: :mortar_board:
 
 ## Simplilearn
 
