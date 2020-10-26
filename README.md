@@ -6,7 +6,7 @@ A list of courses that I've taken and successfully completed.
 * [Coursera](#Coursera)
 * [Simplilearn](#Simplilearn)
 * [Hackerrank](#Hackerrank)
-
+* [IBM](#IBM)
 
 ## Coursera
 
@@ -30,7 +30,7 @@ A list of courses that I've taken and successfully completed.
 
 * [Python (Basic)](https://www.hackerrank.com/skills-verification)  [:mortar_board:](https://www.hackerrank.com/certificates/35e1b03f7136)
 
-##IBM
+## IBM
 
 * IBM Watson for Chatbots  [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/b775986cb9594607ad4e404835d0b3a6)
 * Build your own Chatbot (Level 1)  [:mortar_board:](https://www.youracclaim.com/badges/894a096b-73cd-4464-90d1-1785ac5f941a?source=linked_in_profile)
