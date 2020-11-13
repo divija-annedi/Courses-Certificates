@@ -7,6 +7,7 @@ A list of courses that I've taken and successfully completed.
 * [Simplilearn](#Simplilearn)
 * [Hackerrank](#Hackerrank)
 * [CognitiveClass](#CognitiveClass)
+* [IBM](#IBM)
 
 ## Coursera
 
@@ -37,7 +38,7 @@ A list of courses that I've taken and successfully completed.
 
 * Build your own Chatbot (Level 1)  [:mortar_board:](https://www.youracclaim.com/badges/894a096b-73cd-4464-90d1-1785ac5f941a?source=linked_in_profile)
 
-## IBM Certificates
+## IBM
 
 * IBM Watson for Chatbots [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/b775986cb9594607ad4e404835d0b3a6)
 * Accelerated Deep Learning with GPU [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM17+2019_T2)
