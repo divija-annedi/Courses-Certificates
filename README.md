@@ -29,6 +29,7 @@ A list of courses that I've taken and successfully completed.
   * Deep Learning Fundamentals  [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Deep%20Learning%20Fundamentals.pdf)
   * IBM Watson for Chatbots [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/b775986cb9594607ad4e404835d0b3a6)
   * Accelerated Deep Learning with GPU [:mortar_board:](https://certificates.simplicdn.net/share/2274049.pdf)
+  * Machine Learning with R [:mortar_board:]
   
 ## Hackerrank
 
@@ -42,3 +43,4 @@ A list of courses that I've taken and successfully completed.
 
 * IBM Watson for Chatbots [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/b775986cb9594607ad4e404835d0b3a6)
 * Accelerated Deep Learning with GPU [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM17+2019_T2)
+* Machine Learning with R [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM14+2019_T2)
