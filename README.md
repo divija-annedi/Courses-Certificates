@@ -33,7 +33,9 @@ A list of courses that I've taken and successfully completed.
   
 ## Hackerrank
 
-* [Python (Basic)](https://www.hackerrank.com/skills-verification)  [:mortar_board:](https://www.hackerrank.com/certificates/35e1b03f7136)
+* Python (Basic) [:mortar_board:](https://www.hackerrank.com/certificates/35e1b03f7136)
+* Problem Solving (Basic) [:mortar_board:](https://www.hackerrank.com/certificates/70809aa0e3e1)
+* Problem Solving (Intermediate) [:mortar_board:](https://www.hackerrank.com/certificates/6d673ce2ea2a)
 
 ## CognitiveClass
 
