@@ -1,6 +1,6 @@
 # Courses + Certifications
 A list of courses that I've taken and successfully completed.
->Links to solution repositories are marked as :books: and certificates are marked as :mortar_board: .
+> Links to Certificates are marked as :mortar_board: .
 ## Index
 
 * [Coursera](#Coursera)
@@ -11,15 +11,15 @@ A list of courses that I've taken and successfully completed.
 
 ## Coursera
 
-* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Cryptography%20and%20Information%20Theory.pdf)
-* [Networks and Communications Security](https://www.coursera.org/learn/network-security-communications-sscp/home/welcome):books: [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/K72QEB72VATL)
-* [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Symmetric%20Cryptography.pdf)
-* [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Asymmetric%20Cryptography%20and%20Key%20Management.pdf)
-* [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Hadoop%20Platform%20and%20Application%20Framework.pdf)
-* [Multiplatform Mobile App Development with React Native](https://www.coursera.org/learn/react-native/home/welcome):books: [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Multiplatform%20Mobile%20App%20Development%20with%20React%20Native.pdf)
-* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome):books: 
-* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome):books: 
-* Exploratory Data Analysis for Machine Learning [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/EER4ZZ2FTT6R)
+* [Cryptography and Information Theory](https://www.coursera.org/learn/crypto-info-theory/home/welcome) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Cryptography%20and%20Information%20Theory.pdf)
+* [Networks and Communications Security](https://www.coursera.org/learn/network-security-communications-sscp/home/welcome) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/K72QEB72VATL)
+* [Symmetric Cryptography](https://www.coursera.org/learn/symmetric-crypto/home/welcome) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Symmetric%20Cryptography.pdf)
+* [Asymmetric Cryptography and Key Management](https://www.coursera.org/learn/asymmetric-crypto/home/welcome) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Asymmetric%20Cryptography%20and%20Key%20Management.pdf)
+* [Hadoop Platform and Application Framework](https://www.coursera.org/learn/hadoop/home/welcome) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Hadoop%20Platform%20and%20Application%20Framework.pdf)
+* [Multiplatform Mobile App Development with React Native](https://www.coursera.org/learn/react-native/home/welcome) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Multiplatform%20Mobile%20App%20Development%20with%20React%20Native.pdf)
+* [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) 
+* [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) 
+* [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/EER4ZZ2FTT6R)
 
 ## Simplilearn
 
