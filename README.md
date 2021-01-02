@@ -20,6 +20,7 @@ A list of courses that I've taken and successfully completed.
 * [Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1/home/welcome) 
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) 
 * [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/EER4ZZ2FTT6R)
+* [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/AA3YWEEYZF6U)
 
 ## Simplilearn
 
