@@ -21,6 +21,11 @@ A list of courses that I've taken and successfully completed.
 * [Algorithms, Part II](https://www.coursera.org/learn/algorithms-part2/home/welcome) 
 * [Exploratory Data Analysis for Machine Learning](https://www.coursera.org/learn/ibm-exploratory-data-analysis-for-machine-learning) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/EER4ZZ2FTT6R)
 * [Supervised Learning: Regression](https://www.coursera.org/learn/supervised-learning-regression) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/AA3YWEEYZF6U)
+* [Supervised Learning: Classification](https://www.coursera.org/learn/supervised-learning-classification) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/MTKNT5EQN6P3)
+* [Unsupervised Learning](https://www.coursera.org/learn/ibm-unsupervised-learning) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/YG555W2SANXY)
+* [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning/home/welcome) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/HLECQSS484DH)
+* [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/XV2YJ7D3WVUF)
+
 
 ## Simplilearn
 
@@ -49,4 +54,5 @@ A list of courses that I've taken and successfully completed.
 * Accelerated Deep Learning with GPU [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM17+2019_T2)
 * Machine Learning with R [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM14+2019_T2)
 * Deep Learning with TensorFlow [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/a7ec8736db4e40378e2aeffd75b00612)
+* IBM Machine Learning Professional Certification [:mortar_board:](https://www.coursera.org/account/accomplishments/professional-cert/HNEB875T7AS6)
 
