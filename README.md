@@ -47,6 +47,8 @@ A list of courses that I've taken and successfully completed.
 ## CognitiveClass
 
 * Build your own Chatbot (Level 1)  [:mortar_board:](https://www.youracclaim.com/badges/894a096b-73cd-4464-90d1-1785ac5f941a?source=linked_in_profile)
+* IBM Machine Learning Professional Certificate [:mortar_board:](https://www.youracclaim.com/badges/175fc4b4-347d-4e44-a468-001e2b45324d/public_url
+)
 
 ## IBM
 
