@@ -6,7 +6,7 @@ A list of courses that I've taken and successfully completed.
 * [Coursera](#Coursera)
 * [Simplilearn](#Simplilearn)
 * [Hackerrank](#Hackerrank)
-* [CognitiveClass](#CognitiveClass)
+* [CognitiveClass/Acclaim](#CognitiveClass/Acclaim)
 * [IBM](#IBM)
 
 ## Coursera
@@ -47,7 +47,7 @@ A list of courses that I've taken and successfully completed.
 * Problem Solving (Basic) [:mortar_board:](https://www.hackerrank.com/certificates/70809aa0e3e1)
 * Problem Solving (Intermediate) [:mortar_board:](https://www.hackerrank.com/certificates/6d673ce2ea2a)
 
-## CognitiveClass
+## CognitiveClass/Acclaim
 
 * Build your own Chatbot (Level 1)  [:mortar_board:](https://www.youracclaim.com/badges/894a096b-73cd-4464-90d1-1785ac5f941a?source=linked_in_profile)
 * IBM Machine Learning Professional Certificate [:mortar_board:](https://www.youracclaim.com/badges/175fc4b4-347d-4e44-a468-001e2b45324d/public_url
