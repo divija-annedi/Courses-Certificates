@@ -37,6 +37,9 @@ A list of courses that I've taken and successfully completed.
   * IBM Watson for Chatbots [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/b775986cb9594607ad4e404835d0b3a6)
   * Accelerated Deep Learning with GPU [:mortar_board:](https://certificates.simplicdn.net/share/2274049.pdf)
   * Machine Learning with R [:mortar_board:](https://certificates.simplicdn.net/share/2279630.pdf)
+  * Deep Learning with Keras and Tensorflow [:mortar_board:](https://certificates.simplicdn.net/share/2368046_1610662945.pdf)
+  * Natural Language processing [:mortar_board:](https://certificates.simplicdn.net/share/2368367_1610685773.pdf)
+  * AI Capstone Project [:mortar_board:]
   
 ## Hackerrank
 
