@@ -29,7 +29,7 @@ A list of courses that I've taken and successfully completed.
 
 ## Simplilearn
 
-* [AI Engineer](https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?referrer=search&tag=ai%20engineer)
+* [AI Engineer](https://www.simplilearn.com/artificial-intelligence-masters-program-training-course?referrer=search&tag=ai%20engineer) [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/divija.pdf)
   * Introduction to Artificial Intelligence  [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Introduction%20to%20Artificial%20Intelligence.pdf)
   * Data Science with Python  [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Data%20Science%20with%20Python.pdf)
   * Machine Learning  [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Machine%20Learning.pdf)
