@@ -40,6 +40,9 @@ A list of courses that I've taken and successfully completed.
   * Deep Learning with Keras and Tensorflow [:mortar_board:](https://certificates.simplicdn.net/share/2368046_1610662945.pdf)
   * Natural Language processing [:mortar_board:](https://certificates.simplicdn.net/share/2368367_1610685773.pdf)
   * AI Capstone Project [:mortar_board:](https://certificates.simplicdn.net/share/2394402_1612568727.pdf)
+ 
+* [Cyber Security Expert](https://www.simplilearn.com/cyber-security-expert-master-program-training-course)
+  * Introduction to Cybersecurity
   
 ## Hackerrank
 
