@@ -43,7 +43,7 @@ A list of courses that I've taken and successfully completed.
   * AI Capstone Project [:mortar_board:](https://certificates.simplicdn.net/share/2394402_1612568727.pdf)
  
 * [Cyber Security Expert](https://www.simplilearn.com/cyber-security-expert-master-program-training-course)
-  * Introduction to Cybersecurity
+  * Introduction to Cybersecurity [:mortar_board:](https://certificates.simplicdn.net/share/2434825.pdf)
   
 ## Hackerrank
 
