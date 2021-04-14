@@ -26,6 +26,7 @@ A list of courses that I've taken and successfully completed.
 * [Deep Learning and Reinforcement Learning](https://www.coursera.org/learn/deep-learning-reinforcement-learning/home/welcome) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/HLECQSS484DH)
 * [Specialized Models: Time Series and Survival Analysis](https://www.coursera.org/learn/time-series-survival-analysis) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/XV2YJ7D3WVUF)
 * [Blockchain : Foundation and use cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/KSYTNFDJCEDK)
+* [Penetration Testing, Incident Response and Forensics](https://www.coursera.org/learn/ibm-penetration-testing-incident-response-forensics) [:mortar_board:](https://www.coursera.org/account/accomplishments/verify/TV8M5CH88TU9)
 
 
 ## Simplilearn
