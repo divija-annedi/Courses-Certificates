@@ -8,6 +8,7 @@ A list of courses that I've taken and successfully completed.
 * [Hackerrank](#Hackerrank)
 * [CognitiveClass](#CognitiveClass)
 * [IBM](#IBM)
+* [Udemy](#Udemy)
 
 ## Coursera
 
@@ -65,4 +66,10 @@ A list of courses that I've taken and successfully completed.
 * Machine Learning with R [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/user/5951/course/course-v1:Simplilearn+SLIBM14+2019_T2)
 * Deep Learning with TensorFlow [:mortar_board:](https://courses.skillsnet.simplilearn.com/certificates/a7ec8736db4e40378e2aeffd75b00612)
 * IBM Machine Learning Professional Certification [:mortar_board:](https://www.coursera.org/account/accomplishments/professional-cert/HNEB875T7AS6)
+
+## Udemy
+
+* Develop a Shopping Cart Website with Django 2 and Python 3 [:mortar_board:](https://www.udemy.com/certificate/UC-19a190c5-9b9c-4c89-b342-4cfb9066cedd/)
+* Database Security for Cyber Professionals [:mortar_board:](https://www.udemy.com/certificate/UC-92bbb336-3d33-4e0a-8f2d-d38726dcb90a/)
+
 
