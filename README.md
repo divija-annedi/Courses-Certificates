@@ -74,6 +74,6 @@ A list of courses that I've taken and successfully completed.
 
 ## PegaSystems
 
-* Certified System Architect 8.4 [:mortar_board:]()
+* Certified System Architect 8.4 [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/CERTIFICATION_Pega%20Certified%20System%20Architect_8.4.pdf)
 
 
