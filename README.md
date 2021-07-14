@@ -72,4 +72,8 @@ A list of courses that I've taken and successfully completed.
 * Develop a Shopping Cart Website with Django 2 and Python 3 [:mortar_board:](https://www.udemy.com/certificate/UC-19a190c5-9b9c-4c89-b342-4cfb9066cedd/)
 * Database Security for Cyber Professionals [:mortar_board:](https://www.udemy.com/certificate/UC-92bbb336-3d33-4e0a-8f2d-d38726dcb90a/)
 
+## PegaSystems
+
+* Certified System Architect 8.4 [:mortar_board:]()
+
 
