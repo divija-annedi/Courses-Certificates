@@ -51,6 +51,7 @@ A list of courses that I've taken and successfully completed.
   * Certified Information Security Manager [:mortar_board:](https://certificates.simplicdn.net/share/2864151.pdf)
   * CISSP - Certified Information Systems Security Professional [:mortar_board:](https://certificates.simplicdn.net/share/2884077.pdf)
   * Certified Cloud Security Professional - CSSP [:mortar_board:](https://certificates.simplicdn.net/share/2884147.pdf)
+  * CompTIA Network + (N10-006) [:mortar_board:](https://certificates.simplicdn.net/share/2884168.pdf)
   
 ## Hackerrank
 
