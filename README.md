@@ -9,6 +9,7 @@ A list of courses that I've taken and successfully completed.
 * [CognitiveClass](#CognitiveClass)
 * [IBM](#IBM)
 * [Udemy](#Udemy)
+* [PegaSystems](#PegaSystems)
 
 ## Coursera
 
