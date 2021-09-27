@@ -46,6 +46,10 @@ A list of courses that I've taken and successfully completed.
  
 * [Cyber Security Expert](https://www.simplilearn.com/cyber-security-expert-master-program-training-course)
   * Introduction to Cybersecurity [:mortar_board:](https://certificates.simplicdn.net/share/2434825.pdf)
+  * CompTIA Security+ 601 [:mortar_board:](https://certificates.simplicdn.net/share/2861941.pdf)
+  * Certified Information Security Manager [:mortar_board:](https://certificates.simplicdn.net/share/2864151.pdf)
+  * CISSP - Certified Information Systems Security Professional [:mortar_board:](https://certificates.simplicdn.net/share/2884077.pdf)
+  * Certified Cloud Security Professional - CSSP [:mortar_board:](https://certificates.simplicdn.net/share/2884147.pdf)
   
 ## Hackerrank
 
