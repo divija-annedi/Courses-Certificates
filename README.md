@@ -80,9 +80,9 @@ A list of courses that I've taken and successfully completed.
 * Relational Database Design [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/rd%20design.pdf)
 * Complete Introduction to Microsoft Power BI [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/power%20bi.pdf)
 * Snowflake Decoded - Fundamentals and hands on training [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/snowflake.pdf)
-* Bash Scripting and Shell Programming [:mortar_board:]()
-* Data Warehouse Fundamentals for Beginners [:mortar_board:]()
-* R Programming A-Z [:mortar_board:]()
+* Bash Scripting and Shell Programming [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Bash%20Scripting%20and%20Shell%20Programming.pdf)
+* Data Warehouse Fundamentals for Beginners [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Data%20Warehouse%20Fundamentals%20for%20Beginners.pdf)
+* R Programming A-Z [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/R%20Programming%20A-Z.pdf)
 
 ## PegaSystems
 
