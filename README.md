@@ -10,6 +10,7 @@ A list of courses that I've taken and successfully completed.
 * [IBM](#IBM)
 * [Udemy](#Udemy)
 * [PegaSystems](#PegaSystems)
+* [SSAA](#SSAA)
 
 ## Coursera
 
@@ -83,9 +84,14 @@ A list of courses that I've taken and successfully completed.
 * Bash Scripting and Shell Programming [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Bash%20Scripting%20and%20Shell%20Programming.pdf)
 * Data Warehouse Fundamentals for Beginners [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/Data%20Warehouse%20Fundamentals%20for%20Beginners.pdf)
 * R Programming A-Z [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/R%20Programming%20A-Z.pdf)
+* Certified Lean Six Sigma White/Lean Six Sigma Yellow Belt [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/ss%20white-yellow.pdf)
+* Data Analysis with Pandas and Python [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/data%20analysis%20with%20pandas%20and%20python.pdf)
 
 ## PegaSystems
 
 * Certified System Architect 8.4 [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/CERTIFICATION_Pega%20Certified%20System%20Architect_8.4.pdf)
 
+## SSAA
 
+* Lean Six Sigma White Belt [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/certificate%2Blean%2Bsix%2Bsigma%2Bwhite%2Bbelt%2B-%2BCopy.pdf)
+* Lean Six Sigma Yellow Belt [:mortar_board:](https://github.com/divija-annedi/certificates/blob/main/certificate%2Blean%2Bsix%2Bsigma%2Byellow%2Bbelt%2B-%2BCopy.pdf)
